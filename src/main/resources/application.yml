@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: salesstats-sahila
+  profiles:
+    active: local
+
+server:
+  port: 8090
